@@ -1,0 +1,18 @@
+/* Globais */
+@import url("./global/header.css");
+@import url("./global/footer.css");
+@import url("./global/global.css");
+@import url("./utilidades/cores.css");
+@import url("./utilidades/tipografia.css");
+
+/* Banner */
+@import url("./banner/banner.css");
+
+/* Sobre */
+@import url("./sobre/sobre.css");
+
+/* Especialidades */
+@import url("./especialidades/especialidades.css");
+
+/* Contato */
+@import url("./contato/contato.css");
