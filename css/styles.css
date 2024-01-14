@@ -13,6 +13,7 @@
 
 /* Especialidades */
 @import url("./especialidades/especialidades.css");
+@import url("./especialidades/especialidade.css");
 
 /* Contato */
 @import url("./contato/contato.css");
